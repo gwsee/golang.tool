@@ -4,7 +4,6 @@ runtime/
 *.log
 *node_modules
 .idea
-*_test.go
 data/*
 config/config.json
 *.debug
