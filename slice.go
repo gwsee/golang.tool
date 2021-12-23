@@ -1,4 +1,4 @@
-package common_tools
+package tool
 
 //mainly for slice or array
 

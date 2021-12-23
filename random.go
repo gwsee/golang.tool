@@ -1,3 +1,3 @@
-package common_tools
+package tool
 
 //创建随机文字
